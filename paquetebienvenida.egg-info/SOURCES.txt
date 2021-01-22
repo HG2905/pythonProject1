@@ -1,0 +1,7 @@
+setup.py
+bienvenida/__init__.py
+bienvenida/bienvenida.py
+paquetebienvenida.egg-info/PKG-INFO
+paquetebienvenida.egg-info/SOURCES.txt
+paquetebienvenida.egg-info/dependency_links.txt
+paquetebienvenida.egg-info/top_level.txt

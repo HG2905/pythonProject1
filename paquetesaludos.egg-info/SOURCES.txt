@@ -1,0 +1,9 @@
+setup.py
+paquetesaludos.egg-info/PKG-INFO
+paquetesaludos.egg-info/SOURCES.txt
+paquetesaludos.egg-info/dependency_links.txt
+paquetesaludos.egg-info/top_level.txt
+saludos/__init__.py
+saludos/saludos.py
+saludos/despedida/__init__.py
+saludos/despedida/despedida.py
