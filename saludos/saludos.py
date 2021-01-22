@@ -6,13 +6,15 @@ class Carro:
         self.peso = peso
         self.enmarcha = enmarcha
 
+
+        
     def encender(self, encen):
         self.enmarcha = encen
         if self.enmarcha:
             return "El carro esta encendido"
         else:
             return "El carro esta apagado"
-
+ey
 
     def avanzar(self):
         pass
