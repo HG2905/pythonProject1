@@ -13,14 +13,8 @@ class Carro:
         else:
             return "El carro esta apagado"
 
-    def estado(self):
-        if self.enmarcha:
-            return "El carro esta encendido"
-        else:
-            return "El carro esta apagado"
-
     def avanzar(self):
-        self.a
+        pass
 
     def detener(self):
         pass
@@ -36,6 +30,4 @@ carro1 = Carro("Audi", "rojo", "deportivo", 500)
 carro2 = Carro("BMW", "negro", "turismo", 450)
 # carro3 = Carro("seat", "plateado", "todoterreno", 600)
 print(carro1.encender(True))
-print(carro1.estado())
-print(carro2.estado())
 
