@@ -11,8 +11,10 @@ class Coche:
     def estado(self):
         if self.enmarcha:
             return "El coche esta en marcha"
-        else:
+        else
+            print("El choche esta apagado")
             return "El coche no esta en marcha"
+        
 
     def colorear(self):
         self.color = "Black"
@@ -21,4 +23,7 @@ class Coche:
     def masruedas(self):
         self.rueda = 6
         print(f"el coche tiene {self.rueda} ruedas y es un marcianno")
+
+    print("Hola mundo")
+    print("Puc montejo"))
 
