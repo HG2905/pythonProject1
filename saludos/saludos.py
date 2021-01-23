@@ -32,5 +32,6 @@ ey papito
 carro1 = Carro("Audi", "rojo", "deportivo", 500)
 carro2 = Carro("BMW", "negro", "turismo", 450)
 # carro3 = Carro("seat", "plateado", "todoterreno", 600)
-print(carro1.encender(True))
+
+
 

@@ -22,7 +22,3 @@ class Coche:
         self.rueda = 6
         print(f"el coche tiene {self.rueda} ruedas y es un marcianno")
 
-
-coche1 = Coche()
-coche1.arrancar()
-print(coche1.enmarcha)
