@@ -21,7 +21,4 @@ for i in texto:
 print(min)
 print(may)
 print(unico)
-print("Hola mundo")
-print("Hola Henry")
-print("Hola pendejo")
-print("Achingado")
+
